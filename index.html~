@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>CathyKDesigns</title>
+</head>
+
+<body>
+<div id="container">
+	<div id="header">
+		<img src="images/homepagebanner.jpg">
+	</div>
+
+	<div id="nav">
+		<ul id="mainNavLinks">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="products.html">Products</a></li>
+			<li><a href="aboutus.html">About Us</a></li>
+			<li><a target="_blank" href="https://www.etsy.com/shop/CathyKDesigns">My Etsy Shop</a></li>
+		</ul>
+	</div>
+
+	<div id="leftSidebar">
+		<a target="_blank" href="https://www.facebook.com/Cathy.Krohn.Watercolor"><img height=43 src="images/facebook.png"></a>
+		<a target="_blank" href="https://twitter.com/CathyKDesigns"><img height=43 src="images/twitter.png"></a>
+	</div>
+	
+	<div id="content">
+		<p><h3>Custom Tablet & E-Reader Cases</h3></p>
+		<p> I specialize in iPad, iPad Mini, Kindle, Nook, Kobo and Nexus 7 covers. My hardcovers feel sturdy while holding, yet are slim, lightweight, soft, durable and very comfortable to use with your iPad, eReader or tablet. </p>
+		<p>Each cover is custom made for an exact fit in my smoke free and pet free studio. All of my covers are lovingly handcrafted to protect your favorite device and do it with comfort and style! I use only the highest quality fabrics.</p>
+		<p>Please visit my <a href="">Etsy Shop</a> to purchase one of my cases.</p>
+
+		<div id="contentPic">
+			<img height=300 src="images/finishedcases.jpg">
+		</div>
+	</div>
+
+	<div id="footer">
+		Copyright CathyKDesigns 2013 - Website Designed by Scott Krohn
+	</div>
+</div>
+</body>
+
+</html>

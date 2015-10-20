@@ -1,0 +1,61 @@
+#container {
+	background-color: blue;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	border-spacing: 0 15px;
+	margin: auto;
+}
+
+ul {
+	margin: auto;
+}
+
+a:link {
+	color:red;
+}
+
+a:visited {
+	color:#5D6E9C;
+}
+
+a:hover {
+	background-color: blue;
+	color: white;
+	text-decoration: underline;
+}
+
+a.piclink:hover {
+	background-color:white;
+}
+
+#header {
+	position: center;
+}
+
+#navigation {
+	position: absolute;
+	top: 170;
+	left: 300px; 
+	width: 200px;
+	text-align: left;
+	border: 1px solid black;
+}
+
+#content {
+	position: absolute;
+	top: 170;
+	left: 501px;	
+	padding: 10px;
+	border: 1px solid black;
+}
+
+#footer {
+	position: absolute;
+	top: 600px;
+	left: 40%;
+}
+
